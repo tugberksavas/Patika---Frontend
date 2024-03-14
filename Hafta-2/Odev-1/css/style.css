@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(241, 237, 232);
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #000;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    color:purple;
+    text-align: center;
+}
+h3 {
+    color: yellow;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+    
+}
+ol {
+    list-style-position: inside;
+}
