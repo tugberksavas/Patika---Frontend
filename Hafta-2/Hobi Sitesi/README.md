@@ -1,3 +1,6 @@
+<img width="1440" alt="Ekran Resmi 2024-03-18 15 23 32" src="https://github.com/tugberksavas/Patika---Frontend/assets/111705123/88ac2f7e-fd44-41f5-8a74-56a9cb3c5209">
+<img width="1434" alt="Ekran Resmi 2024-03-18 15 23 54" src="https://github.com/tugberksavas/Patika---Frontend/assets/111705123/f2a466bf-c45d-4d97-b308-9d74c23601cf">
+
 Pratik - Hobi Sitesi
 
 Soru:
